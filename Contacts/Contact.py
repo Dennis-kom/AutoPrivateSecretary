@@ -10,3 +10,9 @@ class Contact:
         self.phone_number: number
         self.email: str = email
         self.address: Address = adress
+
+
+#TODO: define funcionality of dumping as json file
+#TODO: define data manege maner
+#TODO: define groups and sets - for contacts definition
+#TODO: consider to implement algorithms for data complition
